@@ -1,0 +1,19 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  text-align: center;
+
+.navbar-brand img {
+  filter: invert(1);
+}
+
+.active {
+  font-weight: bolder red ;
+}
+
+.logo {
+  width: 50px;
+}
+
+}
